@@ -148,7 +148,7 @@ output/CSE881_Final_Report_Notebook.pdf
 
 ---
 
-## 📁 Data
+## Data
 
 * Raw data is stored in the `data/` directory
 * Data follows the Empatica E4 export format (CSV per signal type)
